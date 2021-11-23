@@ -18,4 +18,4 @@ leaflet js homework
 * Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 * Add layer controls to our map.
 
-[Leaflet-step-2](Images/Leaflet-step-2.png)
+![Leaflet-step-2](Images/Leaflet-step-2.png)
