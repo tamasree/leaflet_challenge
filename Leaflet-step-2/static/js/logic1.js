@@ -45,8 +45,8 @@ function createMarker(response) {
         var tecFeatures = data.features;
 
         var tectonicLayer = L.geoJSON(tecFeatures, {
-            color: "orange",
-            weight: 3
+            color: "blue",
+            weight: 4
         })
         createMap(earthquakeLayer, tectonicLayer)
     });
